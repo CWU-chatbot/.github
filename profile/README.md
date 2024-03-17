@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # cwu chatbot
 캡스톤디자인 대학교 전용 챗봇
 
